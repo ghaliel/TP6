@@ -1,12 +1,5 @@
 
-
-
 # 📚 Student Management System
-
-![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.7-brightgreen?style=for-the-badge&logo=spring)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?style=for-the-badge&logo=mysql)
-![Maven](https://img.shields.io/badge/Maven-3.9.11-red?style=for-the-badge&logo=apache-maven)
 
 Un système de gestion des étudiants développé avec Spring Boot et MySQL, offrant une API RESTful complète pour gérer les informations des étudiants.
 
@@ -185,25 +178,29 @@ Le projet inclut des tests unitaires pour les contrôleurs et services.
 
 
 #### Interface Swagger UI
-![img_6.png](img_6.png)
+<img width="1785" height="856" alt="Screenshot 2025-10-28 234432" src="https://github.com/user-attachments/assets/1be65be0-0309-426c-9ce0-4aedd5b34811" />
 
 #### Création d'un étudiant
-![img.png](POST.png)
+<img width="1234" height="902" alt="Screenshot 2025-10-28 234329" src="https://github.com/user-attachments/assets/2589f9a0-5b1a-4660-8026-2abaccf1b565" />
 
 #### Liste des étudiants
-![img_1.png](GET.png)
+
+<img width="1224" height="934" alt="Screenshot 2025-10-28 234338" src="https://github.com/user-attachments/assets/6a0a179e-65f4-45f4-80a3-db83e13ea277" />
 
 #### Statistiques par année
-![img_3.png](get3.png)
+
+<img width="1227" height="928" alt="Screenshot 2025-10-28 234403" src="https://github.com/user-attachments/assets/ffcfa7c2-9c82-4157-b219-40c05dde7157" />
 
 #### count etudiant
-![img_2.png](GET2.png)
+
+<img width="1233" height="923" alt="Screenshot 2025-10-28 234348" src="https://github.com/user-attachments/assets/a7c6720d-8883-4222-9ba2-895ff85e4fb0" />
 
 #### supprimer etudiant
-![img_4.png](DELETE.png)
+<img width="1224" height="347" alt="Screenshot 2025-10-28 234418" src="https://github.com/user-attachments/assets/0fe1cf2d-0472-4653-ac24-404e95606bdc" />
 
 ### test unitaire
-![img_5.png](img_5.png)
+
+<img width="1228" height="485" alt="Screenshot 2025-10-28 234425" src="https://github.com/user-attachments/assets/11c74aed-c707-4474-b64c-39b91f683fbd" />
 
 ## 📁 Structure du projet
 
